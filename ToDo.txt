@@ -1,0 +1,10 @@
+Things i'd still like to add
+
+Implement the mouse cursor and the product icon correctly.
+Improve on the GUI a bit but it looks okay for now.
+Refactor some parts of code like the preferences.
+Setting the RendererData sorting stuff.
+Events to automatically select cinemachine as a package when setup up a new camera.
+Refining the post processing setup function.
+Get it to somehow just center on startup.
+Refactor the gui code somehow maybe through codeblocks.

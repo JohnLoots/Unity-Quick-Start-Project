@@ -1,0 +1,15 @@
+{
+    "name": "com.johnloots.unityquickstartproject",
+    "version": "1.1.0",
+    "displayName": "Unity Quick Start Project",
+    "description": "Tool for seting up a new Unity project.",
+    "unity": "2018.3",
+    "keywords": [
+      "",
+      ""
+    ],
+    "author": {
+      "name": "John Loots",
+      "url": "https://github.com/JohnLoots"
+    }
+  }
